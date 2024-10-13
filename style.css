@@ -1,0 +1,16 @@
+#products {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+
+}
+
+.product {
+    padding :10px;
+    border: 10px ridge black;
+
+}
+
+.price {
+    font-size: 20px;
+}
